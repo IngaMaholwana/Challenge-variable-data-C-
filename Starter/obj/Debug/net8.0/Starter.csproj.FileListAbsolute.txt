@@ -1,0 +1,14 @@
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Starter/bin/Debug/net8.0/Starter
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Starter/bin/Debug/net8.0/Starter.deps.json
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Starter/bin/Debug/net8.0/Starter.dll
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Starter/bin/Debug/net8.0/Starter.pdb
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/Starter.dll
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/refint/Starter.dll
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/Starter.pdb
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Starter/obj/Debug/net8.0/ref/Starter.dll

@@ -1,0 +1,14 @@
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Final/bin/Debug/net8.0/Final
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Final/bin/Debug/net8.0/Final.deps.json
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Final/bin/Debug/net8.0/Final.dll
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Final/bin/Debug/net8.0/Final.pdb
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Final/obj/Debug/net8.0/Final.dll
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Final/obj/Debug/net8.0/refint/Final.dll
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Final/obj/Debug/net8.0/Final.pdb
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/home/ingamaholwana/Documents/Challenge-Project-variable-data-in-CSharp-main/Final/obj/Debug/net8.0/ref/Final.dll
